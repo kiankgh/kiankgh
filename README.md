@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi, I'm Kian<br><br>🎓 Computer Science student @ TU Berlin  <br>💼 Data Science Working Student  <br>📍 Berlin, Germany<br><br>I'm interested in **Data Science, Machine Learning, AI and Data Engineering**.<br><br>Currently working on:<br>- 🤖 Agentic AI & LLM applications<br>- 🧹 Data Quality & Error Detection<br>- ⚙️ Data Pipelines & Automation<br>- 📊 Practical Data Science projects<br><br>Always learning, building and experimenting with new technologies.
+##👋 Hi, I'm Kian<br><br>
+🎓 Computer Science student @ TU Berlin  <br>💼 Data Science Working Student  <br>📍 Berlin, Germany<br><br>I'm interested in **Data Science, Machine Learning, AI and Data Engineering**.<br><br>Currently working on:<br>- 🤖 Agentic AI & LLM applications<br>- 🧹 Data Quality & Error Detection<br>- ⚙️ Data Pipelines & Automation<br>- 📊 Practical Data Science projects<br><br>Always learning, building and experimenting with new technologies.
 
 
 ## 🌐 Socials:
